@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User Should show the name correct 1`] = `
+User {
+  "firstname": "Gean",
+  "lastname": "Gonçalves",
+}
+`;
